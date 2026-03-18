@@ -1,9 +1,3 @@
-Great — now that I’ve actually read your notebook, I can build a **100% accurate README** tailored to your project (not a generic one).
-
-Here’s your complete, polished README 👇
-
----
-
 # 🌞 Solar Power Plant – Brazil Irradiation Analysis
 
 This project analyzes **solar irradiation across Brazil** to identify the best location for installing a **solar power plant**. It combines geospatial data, energy metrics, and visualization techniques to support strategic decision-making.
